@@ -3,7 +3,6 @@
   <head>    
     <title>MTK Test WebPage</title>
   </head>  
-<h1>Hello testing</h1>
+<body>Hello testing</body>
 
-<h2>Hello testing</h2>
 </html>
